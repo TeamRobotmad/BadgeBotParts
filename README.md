@@ -7,3 +7,6 @@ The motors, wheels & ball caster come from [Pololu](https://www.pololu.com), ava
 + https://www.pololu.com/product/952
 + https://www.pololu.com/product/1088
 + https://www.pololu.com/product/1098
+
+# Hexpansion EEPROM Recovery #
+If you have issues with any hexpansion which contains an app on its EEPROM causing the Badge S/W to crash you can erase the EEPROM by following the instructions in [hexpansion_eeprom_recovery](https://github.com/TeamRobotmad/BadgeBotParts/blob/main/Docs/hexpansion_eeprom_recovery.pdf)
